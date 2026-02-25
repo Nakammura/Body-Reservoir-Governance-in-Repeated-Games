@@ -1,0 +1,40 @@
+[package]
+name = "tas-simulation"
+version = "0.1.0"
+edition = "2021"
+description = "Numerical verification for Body-Reservoir Governance (BRG) framework"
+
+# Self-contained: no external dependencies for maximum reproducibility.
+[dependencies]
+
+[[bin]]
+name = "selfconsistent"
+path = "src/selfconsistent.rs"
+
+[[bin]]
+name = "perturbation"
+path = "src/perturbation.rs"
+
+[[bin]]
+name = "free_energy"
+path = "src/free_energy.rs"
+
+[[bin]]
+name = "habituation_alpha"
+path = "src/habituation_alpha.rs"
+
+[[bin]]
+name = "dynamic_alpha"
+path = "src/dynamic_alpha.rs"
+
+[[bin]]
+name = "dimension_sweep"
+path = "src/dimension_sweep.rs"
+
+[[bin]]
+name = "phase_transition"
+path = "src/phase_transition.rs"
+
+[[bin]]
+name = "ema_baseline"
+path = "src/ema_baseline.rs"
