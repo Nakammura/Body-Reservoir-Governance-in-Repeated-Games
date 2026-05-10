@@ -10,6 +10,10 @@ authors:
 license: MIT
 repository-code: "https://github.com/Nakammura/Body-Reservoir-Governance-in-Repeated-Games"
 url: "https://github.com/Nakammura/Body-Reservoir-Governance-in-Repeated-Games"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20111980
+    description: "Concept DOI (all versions)"
 keywords:
   - game theory
   - repeated games

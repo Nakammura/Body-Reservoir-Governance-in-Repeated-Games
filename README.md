@@ -1,5 +1,7 @@
 # Body-Reservoir Governance in Repeated Games
 
+[![DOI](https://zenodo.org/badge/1166763416.svg)](https://doi.org/10.5281/zenodo.20111980)
+
 Code, data, and manuscript for:
 
 > **Body-Reservoir Governance in Repeated Games:
@@ -153,6 +155,19 @@ pdflatex main
              and Complexity-Regularized Optimization},
   year    = {2026},
   journal = {arXiv preprint arXiv:2602.20846},
+}
+```
+
+Software archive (this repository):
+
+```bibtex
+@software{nakamura2026brg_code,
+  author    = {Nakamura, Yuki},
+  title     = {Body-Reservoir Governance in Repeated Games: Code and Data},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.20111980},
+  url       = {https://doi.org/10.5281/zenodo.20111980},
 }
 ```
 
