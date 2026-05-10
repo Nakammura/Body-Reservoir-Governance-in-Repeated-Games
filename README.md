@@ -9,6 +9,8 @@ Code, data, and manuscript for:
 > Yuki Nakamura, The Open University of Japan
 >
 > **Paper:** [arXiv:2602.20846](https://arxiv.org/abs/2602.20846) (cs.GT)
+>
+> **ORCID:** [0009-0001-7174-6737](https://orcid.org/0009-0001-7174-6737)
 
 ## Overview
 
@@ -153,6 +155,11 @@ pdflatex main
   journal = {arXiv preprint arXiv:2602.20846},
 }
 ```
+
+## Author
+
+Yuki Nakamura  
+ORCID: [0009-0001-7174-6737](https://orcid.org/0009-0001-7174-6737)
 
 ## License
 
