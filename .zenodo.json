@@ -1,0 +1,35 @@
+{
+  "title": "Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization",
+  "description": "<p>Code, data, and manuscript for the paper <em>Body-Reservoir Governance in Repeated Games</em>.</p><p>We model game-theoretic agents as echo state networks (reservoir computers) and define the variational free energy of a strategy as prediction error plus complexity cost (KL divergence between driven and natural dynamics). A three-layer Body-Reservoir Governance (BRG) architecture &mdash; body (reservoir), cognitive filter, and metacognitive mixer &mdash; explains why unconditional cooperation can persist in practice despite Tit-for-Tat dominating in classical theory. Ten numerical experiments on a continuous Prisoner's Dilemma confirm all theoretical predictions using 20-seed Monte Carlo simulations with zero external dependencies.</p>",
+  "creators": [
+    {
+      "name": "Nakamura, Yuki",
+      "orcid": "0009-0001-7174-6737",
+      "affiliation": "The Open University of Japan"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "game theory",
+    "repeated games",
+    "prisoner's dilemma",
+    "reservoir computing",
+    "echo state network",
+    "embodied cognition",
+    "free energy principle",
+    "variational inference",
+    "complexity cost",
+    "cooperation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2602.20846",
+      "relation": "isSupplementTo",
+      "scheme": "arxiv",
+      "resource_type": "publication-preprint"
+    }
+  ],
+  "communities": []
+}

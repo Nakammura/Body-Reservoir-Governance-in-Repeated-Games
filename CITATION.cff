@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization"
+authors:
+  - family-names: Nakamura
+    given-names: Yuki
+    orcid: "https://orcid.org/0009-0001-7174-6737"
+    affiliation: "The Open University of Japan"
+license: MIT
+repository-code: "https://github.com/Nakammura/Body-Reservoir-Governance-in-Repeated-Games"
+url: "https://github.com/Nakammura/Body-Reservoir-Governance-in-Repeated-Games"
+keywords:
+  - game theory
+  - repeated games
+  - prisoner's dilemma
+  - reservoir computing
+  - echo state network
+  - embodied cognition
+  - free energy principle
+  - variational inference
+  - complexity cost
+  - cooperation
+preferred-citation:
+  type: article
+  title: "Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization"
+  authors:
+    - family-names: Nakamura
+      given-names: Yuki
+      orcid: "https://orcid.org/0009-0001-7174-6737"
+      affiliation: "The Open University of Japan"
+  year: 2026
+  journal: "arXiv preprint"
+  url: "https://arxiv.org/abs/2602.20846"
